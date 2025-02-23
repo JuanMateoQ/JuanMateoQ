@@ -1,4 +1,4 @@
-<h1 align="center">Welcom to my GitHub...</h1>
+<h1 align="center">Welcom to my GitHub profile</h1>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<img src="https://github.com/JuanMateoQ/JuanMateoQ/blob/output/dist/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/JuanMateoQ/JuanMateoQ/output/snake.svg" alt="Snake animation" />
 
 ###
 
