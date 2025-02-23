@@ -1,9 +1,9 @@
-<h1 align="center">Welcom to my GitHub </h1>
+<h1 align="center">Welcom to my GitHub...</h1>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGh6d2U3cHdqbmxiNXpla2V1aHZ2Y20zZWMxMmdmNmdzZzRycGpveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yAGIvCiwPJn5C/giphy.gif"  />
+  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXg1anBrbGY3cDZtZ2V4ZmF6dnZ4bW9laWppZjhodDFiZzhwYnozMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif"  />
 </div>
 
 ###
