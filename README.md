@@ -46,7 +46,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/JuanMateoQ/JuanMateoQ/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/JuanMateoQ/JuanMateoQ/blob/output/dist/snake.svg" alt="Snake animation" />
 
 ###
 
